@@ -1,0 +1,10 @@
+.footer{
+background-color: #000c20;
+min-height: 500px !important;
+color: #fff;
+}
+.quicklink, a:hover{
+color:#ff5f13 !important;
+text-decoration: none;
+
+}

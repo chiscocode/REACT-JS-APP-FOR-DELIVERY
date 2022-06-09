@@ -1,0 +1,33 @@
+.aboutshowcase{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url('../../img/hero/about.jpg');
+    background-repeat: no-repeat;
+    
+    background-position: center !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    min-height: 500px !important;
+    color: #fff;
+    padding-top: 6rem; 
+}
+.btn-orange{
+    background-color:#ff5f13;
+    background-size: cover !important;
+    color: #fff;
+    border: #f15f22;
+}
+.button {
+    background-color: #f15f22; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.hero__caption{padding-top:50px}@media (max-width: 575px){.slider-area .hero__caption{padding-top:50px}}.slider-area .hero__caption h1{font-size:95px;font-weight:600;margin-bottom:14px;color:#fff;line-height:95px;text-transform:capitalize;margin-bottom:40px}@media only screen and (min-width: 992px) and (max-width: 1199px){.slider-area .hero__caption h1{font-size:60px;line-height:1.2}}@media only screen and (min-width: 768px) and (max-width: 991px){.slider-area .hero__caption h1{font-size:50px;line-height:1.2}}@media only screen and (min-width: 576px) and (max-width: 767px){.slider-area .hero__caption h1{font-size:35px;line-height:1.2}}@media (max-width: 575px){.slider-area .hero__caption h1{font-size:32px;line-height:1.2}}.slider-area .hero__caption h1 span{color:#f15f22}.slider-area form.search-box{display:flex;flex-wrap:wrap;border-radius:50px;margin-bottom:15px}
+
