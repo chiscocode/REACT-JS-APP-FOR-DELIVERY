@@ -62,6 +62,12 @@ function Contact() {
                         <input className="form-control" id="emailAddress" type="email" placeholder="Email Address" />
                         </div>
 
+                        {/* <!-- Subject input --> */}
+                        <div className="mb-3">
+                        <label className="form-label" for="subject">Subject</label>
+                        <input className="form-control" id="subject" type="text" placeholder="Subject" />
+                        </div>
+
                         {/* <!-- Message input --> */}
                         <div className="mb-3">
                         <label className="form-label" for="message">Message</label>
